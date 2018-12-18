@@ -20,7 +20,7 @@ export class IframePanelCtrl extends PanelCtrl {
     static templateUrl = `partials/module.html`;
 
     timeRange: TimeRange;
-    inputURL: string;
+    inputURL: string; // iframe-URL. Binding module.html.
 
     syncTypeItems = [SYNC_TYPE.POST, SYNC_TYPE.QUERY];
 
