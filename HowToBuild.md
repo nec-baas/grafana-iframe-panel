@@ -5,7 +5,6 @@
 -----
 
     $ npm install -g gulp yarn
-    $ yarn config set strict-ssl false     # for nec proxy only
     $ yarn install
 
 ビルド
