@@ -114,7 +114,7 @@ export class IframePanelCtrl extends PanelCtrl {
 
         if (!this.panel.url) {
             frameElement.onload = null;
-            this.inputURL = '';
+            this.inputURL = this.$sce.trustAsResourceUrl("about:blank");
             return;
         }
 
