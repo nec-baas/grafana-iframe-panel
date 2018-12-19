@@ -1,7 +1,7 @@
 {
   "name": "nec-baas-iframe-panel",
-  "version": "0.0.1",
-  "description": "NEC BaaS iframe Panel for grafana",
+  "version": "1.0.0-b1",
+  "description": "Iframe Panel for grafana",
   "main": "index.js",
   "scripts": {
     "build": "gulp",

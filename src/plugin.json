@@ -1,10 +1,10 @@
 {
   "type": "panel",
-  "name": "NEC BaaS iframe Panel",
+  "name": "Iframe Panel",
   "id": "nec-baas-iframe-panel",
 
   "info": {
-    "description": "NEC BaaS iframe Panel for grafana",
+    "description": "Iframe Panel for grafana",
     "author": {
       "name": "NEC Corporation",
       "url": "https://jpn.nec.com"
@@ -14,8 +14,8 @@
       "small": "img/icon720.png",
       "large": "img/icon720.png"
     },
-    "version": "0.0.1",
-    "updated": "2018-11-29"
+    "version": "1.0.0-b1",
+    "updated": "2018-12-18"
   },
 
   "dependencies": {
