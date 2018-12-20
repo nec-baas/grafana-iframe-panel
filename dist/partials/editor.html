@@ -1,0 +1,18 @@
+<div class="gf-form-group">
+	<div class="gf-form-inline">
+		<div class="gf-form">
+			<label class="gf-form-label width-12">Time Range Sync Type</label>
+			<span class="gf-form-select-wrapper">
+				<select class="gf-form-input" ng-model="ctrl.panel.syncType" ng-change="ctrl.onSyncTypeChanged()" ng-options="syncType for syncType in ctrl.syncTypeItems"></select>
+			</span>
+		</div>
+	</div>
+
+	<div class="gf-form-inline">
+		<div class="gf-form gf-form--grow">
+			<label class="gf-form-label width-12">URL</label>
+			<input type="text" class="input-small gf-form-input" data-max-lines=1 ng-model="ctrl.panel.url" ng-change="ctrl.refresh()"
+			 ng-model-onblur />
+		</div>
+	</div>
+</div>
