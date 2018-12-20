@@ -49,4 +49,4 @@ Options 設定
 ### URL
 
 外部Webアプリケーションの URL を指定してください。
-URL には、 Grafana の [Variables] (http://docs.grafana.org/reference/templating/)を利用することができます。
+URL には、 Grafana の [Variables](http://docs.grafana.org/reference/templating/) を利用することができます。
