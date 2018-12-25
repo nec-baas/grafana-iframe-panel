@@ -1,6 +1,6 @@
 {
   "name": "nec-baas-iframe-panel",
-  "version": "1.0.0-b1",
+  "version": "1.0.0",
   "description": "Iframe Panel for grafana",
   "main": "index.js",
   "scripts": {
