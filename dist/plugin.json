@@ -14,8 +14,8 @@
       "small": "img/icon720.png",
       "large": "img/icon720.png"
     },
-    "version": "1.0.0-b1",
-    "updated": "2018-12-18"
+    "version": "1.0.0",
+    "updated": "2018-12-25"
   },
 
   "dependencies": {
